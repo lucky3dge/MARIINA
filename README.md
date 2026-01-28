@@ -1,102 +1,109 @@
-# 🌍 Mariina Nigeria CN Ltd – Official Website
+<div align="center">
 
-**Mariina Nigeria CN Ltd** is a duly registered Nigerian private limited liability company (RC No: 8293704) providing **general contracting, sourcing, procurement, importation, and supply services**, with strong operational presence in **Nigeria and China**.
+<img src="img/branding/logo.png" alt="Mariina Nigeria CN Ltd Logo" width="120" />
 
-This repository contains the source code for the company’s official website.
+# **MARIINA NIGERIA CN LTD**
+### **Official Website Repository**
 
-🌐 Website: http://marinanigerialimited.com  
+**RC No:** 8293704  
+**Nigeria • China**
+
+[🌐 Website](http://marinanigerialimited.com) •
+[📧 Email](mailto:marina.cn.ltd@gmail.com) •
+[💬 WhatsApp](https://wa.me/8617804227606) •
+[📸 Instagram](https://instagram.com/_saleemo10) •
+[📘 Facebook](https://facebook.com/saleem.kabeer.12)
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-Website-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Interactivity-yellow?style=for-the-badge&logo=javascript)
+
+</div>
 
 ---
 
 ## 🏢 Company Overview
 
-Mariina Nigeria CN Ltd operates as a **single-point contractor** for complex sourcing and supply requirements, serving government institutions, corporate organizations, contractors, and private clients.
+Mariina Nigeria CN Ltd is a duly registered Nigerian private limited liability company providing **general contracting, sourcing, procurement, importation, and supply services**, with strong operational presence in **Nigeria and China**. :contentReference[oaicite:0]{index=0}
 
-The company bridges **local demand with global supply** through:
-- Strong international supplier networks  
-- Professional contract execution  
-- Efficient logistics coordination  
-- High standards of compliance and accountability  
-
-Company profile details are sourced from the official corporate documentation :contentReference[oaicite:0]{index=0}
+The company delivers structured and dependable solutions to government institutions, corporate organizations, contractors, and private clients by serving as a **single-point contractor** for complex sourcing and supply requirements. :contentReference[oaicite:1]{index=1}
 
 ---
 
 ## 🧰 Core Services
 
-- General Contracting & Product Sourcing  
-- Procurement, Importation & Large-Scale Supply  
-- Agricultural Machinery & Farming Support Equipment  
-- Heavy Machinery & Industrial Equipment  
-- Trucks, Transport Vehicles & Specialized Equipment  
-
----
-
-## 📁 Project Structure
-
-├── css/ # Website stylesheets
-├── img/ # Images and media assets
-├── js/ # JavaScript files
-├── favicon.ico # Website favicon
-├── index.html # Home page
-├── about.html # About the company
-├── products.html # Products & services
-├── contact.html # Contact page
-├── menu.html # Mobile / responsive navigation menu
-└── README.md # Project documentation
-
-
----
-
-## 🎨 Technologies Used
-
-- **HTML5** – Website structure  
-- **CSS3** – Styling and responsive layout  
-- **JavaScript (Vanilla JS)** – Interactivity and dynamic features  
+- ✅ General Contracting, Product Sourcing, Importation & Supply :contentReference[oaicite:2]{index=2}  
+- ✅ Farming Support, Agricultural & Heavy Machinery Supply :contentReference[oaicite:3]{index=3}  
+- ✅ Trucks, transport vehicles, industrial equipment, specialized machinery :contentReference[oaicite:4]{index=4}  
 
 ---
 
 ## ✨ Website Features
 
-- Responsive design (desktop, tablet, and mobile)
-- Clean, professional business layout
-- Mobile-friendly navigation menu
-- Fast-loading static pages
-- Easy maintenance and customization
+- 📱 Responsive layout (desktop, tablet & mobile)
+- 🧭 Mobile-friendly navigation menu
+- ⚡ Fast loading static pages
+- 🛠 Easy customization (CSS / JS / images)
+- 🧱 Clean project structure for maintenance
 
 ---
 
-## 🚀 How to Use Locally
+## 📁 Project Structure
 
-1. Download or clone the repository  
-2. Open `index.html` in any modern browser  
-3. Navigate through pages using the menu  
-
-No backend server or dependencies required.
+MARIINA-NIGERIA-CN-LTD/
+│
+├── index.html                 # Home page
+├── products.html              # Products & services page
+├── about.html                 # About the company page
+├── contact.html               # Contact page
+├── menu.html                  # Mobile / iPad navigation menu
+│
+├── css/                       # Website stylesheets
+│   └── style.css              # Main custom styles
+│
+├── js/                        # JavaScript files
+│   └── script.js              # Custom JS (menu toggle, interactions, etc.)
+│
+├── img/                       # Images and media assets
+│   ├── products/              # Product images (optional folder)
+│   ├── branding/              # Logo & branding (optional folder)
+│   └── banners/               # Hero banners (optional folder)
+│
+├── favicon.ico                # Website favicon
+└── README.md                  # Project documentation
 
 ---
 
-## 🔗 Official Links & Contact
+## 🚀 Getting Started (Local Use)
 
-- 🌐 Website: http://marinanigerialimited.com  
-- 📸 Instagram: https://instagram.com/_saleemo10  
-- 📘 Facebook: https://facebook.com/saleem.kabeer.12  
-- 📧 Email: marina.cn.ltd@gmail.com  
-- 💬 WhatsApp: https://wa.me/8617804227606  
+1. Clone or download this repository  
+2. Open `index.html` in your browser  
+3. Navigate pages using the menu  
+
+✅ No backend/server required.
 
 ---
 
 ## 📍 Office Locations
 
-**Nigeria Office**  
-KM 3S Zaria Road, Kura LGA, Kano State, Nigeria  
-
-**China Office**  
-Baiyun District, Guangzhou, Guangdong Province, China  
+**Nigeria Office:** KM 3S Zaria Road, Kura LGA, Kano State, Nigeria :contentReference[oaicite:5]{index=5}  
+**China Office:** Baiyun District, Guangzhou, Guangdong Province, China :contentReference[oaicite:6]{index=6}  
 
 ---
 
-## 📄 License
+## 🔗 Official Links
 
-This website and its source code are the property of **Mariina Nigeria CN Ltd**.  
-All rights reserved. Unauthorized reproduction or commercial use without permission is prohibited.
+- 🌐 Website: http://marinanigerialimited.com  
+- 📸 Instagram: https://instagram.com/_saleemo10  
+- 📘 Facebook: https://facebook.com/saleem.kabeer.12  
+- 📧 Email: marina.cn.ltd@gmail.com :contentReference[oaicite:7]{index=7}  
+- 💬 WhatsApp: https://wa.me/8617804227606 :contentReference[oaicite:8]{index=8}  
+
+---
+
+## 🛡 License
+
+© Mariina Nigeria CN Ltd. All rights reserved.  
+Unauthorized reproduction or commercial use without permission is prohibited.
