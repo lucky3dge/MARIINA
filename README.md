@@ -70,6 +70,35 @@ Mariina Nigeria CN Ltd bridges **local demand with global supply** through profe
 
 ---
 
+## Project Structure
+
+```text
+MARIINA-NIGERIA-CN-LTD/
+│
+├── index.html                  # Home / landing page
+├── products.html               # Products & sourcing page
+├── about-us.html               # About the company
+├── contact-us.html             # Contact information & inquiries
+│
+├── menu/                       # Navigation components
+│   └── mobile-menu.html        # Mobile & iPad navigation menu
+│
+├── assets/                     # Static assets
+│   ├── css/                    # Stylesheets
+│   │   ├── bootstrap.min.css   # Bootstrap framework
+│   │   └── style.css           # Custom corporate styles
+│   │
+│   ├── js/                     # JavaScript files
+│   │   ├── bootstrap.bundle.min.js  # Bootstrap JS bundle
+│   │   └── main.js             # Custom JS (menu toggle, UI interactions)
+│   │
+│   └── images/                 # Image assets
+│       ├── products/           # Product images
+│       ├── machines/           # Machinery & equipment images
+│       └── branding/           # Logos & brand assets
+│
+├── favicon.ico                 # Website favicon
+└── README.md                   # Project documentation
 
 ---
 
@@ -116,36 +145,4 @@ Unauthorized reproduction, modification, or commercial use without written permi
 ### **Built on Trust • Driven by Excellence • Connected Globally**
 
 </div>
-
-## Project Structure
-
-```text
-MARIINA-NIGERIA-CN-LTD/
-│
-├── index.html                  # Home / landing page
-├── products.html               # Products & sourcing page
-├── about-us.html               # About the company
-├── contact-us.html             # Contact information & inquiries
-│
-├── menu/                       # Navigation components
-│   └── mobile-menu.html        # Mobile & iPad navigation menu
-│
-├── assets/                     # Static assets
-│   ├── css/                    # Stylesheets
-│   │   ├── bootstrap.min.css   # Bootstrap framework
-│   │   └── style.css           # Custom corporate styles
-│   │
-│   ├── js/                     # JavaScript files
-│   │   ├── bootstrap.bundle.min.js  # Bootstrap JS bundle
-│   │   └── main.js             # Custom JS (menu toggle, UI interactions)
-│   │
-│   └── images/                 # Image assets
-│       ├── products/           # Product images
-│       ├── machines/           # Machinery & equipment images
-│       └── branding/           # Logos & brand assets
-│
-├── favicon.ico                 # Website favicon
-└── README.md                   # Project documentation
-
-
 
