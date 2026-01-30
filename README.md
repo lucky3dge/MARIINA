@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/branding/logo.png" alt="Mariina Nigeria CN Ltd Logo" width="120" />
+<img src="https://marinanigerialimited.com/img/logo.png" alt="Mariina Nigeria CN Ltd Logo" width="120" />
 
 # **MARIINA NIGERIA CN LTD**
 ### **Official Website Repository**
